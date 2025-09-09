@@ -154,7 +154,7 @@ Jalankan game dan periksa apakah teks sudah berubah ke bahasa Indonesia
 ![GitHub forks](https://img.shields.io/github/forks/shiestapoi/Thief-Simulator-2-Bahasa-Indonesia-Modded?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/shiestapoi/Thief-Simulator-2-Bahasa-Indonesia-Modded?style=social)
 
-**📈 Progress Terjemahan: 100%** | **🎯 Akurasi: ~95%** | **👥 Contributors: 5+**
+**📈 Progress Terjemahan: 100%** | **🎯 Akurasi: ~95%**
 
 </div>
 
