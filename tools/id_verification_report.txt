@@ -1,0 +1,32 @@
+================================================================================
+LAPORAN VERIFIKASI ID LOCALIZATION FILES
+================================================================================
+
+STATISTIK UMUM:
+----------------------------------------
+Total ID dalam file English: 2376
+Total ID unik dalam file English: 2376
+Total ID dalam file Indonesian: 2376
+Total ID unik dalam file Indonesian: 2376
+
+1. ID DUPLIKAT DALAM FILE ENGLISH:
+----------------------------------------
+   Tidak ada ID duplikat ditemukan
+
+2. ID DUPLIKAT DALAM FILE INDONESIAN:
+----------------------------------------
+   Tidak ada ID duplikat ditemukan
+
+3. ID YANG HILANG DALAM FILE INDONESIAN:
+----------------------------------------
+   Semua ID dari file English ada dalam file Indonesian
+
+4. ID TAMBAHAN DALAM FILE INDONESIAN:
+----------------------------------------
+   Tidak ada ID tambahan dalam file Indonesian
+
+RINGKASAN:
+----------------------------------------
+✅ Tidak ada masalah ditemukan! Kedua file memiliki ID yang konsisten.
+
+================================================================================
